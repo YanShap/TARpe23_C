@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Homework",
+    "\\Homework\\Homework_w2_1",
+    "\\Homework\\Homework_w2_1\\Homework_w2_2"
   ],
-  "SelectedNode": "\\C:\\Users\\opilane\\Source\\Repos\\TARpe23_C",
+  "SelectedNode": "\\Homework\\Homework_w2_1\\Homework_w2_2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
