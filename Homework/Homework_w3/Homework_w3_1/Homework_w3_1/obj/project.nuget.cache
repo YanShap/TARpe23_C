@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ly+UrO2/DDU9hFUDJDQYZhTGW2p0/xPc4cpu/QsbLerzCAsfoeGYwZaCfRYWyZEyWUxd6Lp/C+mH+PMDqs6/Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timsh\\source\\repos\\TARpe23_C\\Homework\\Homework_w3\\Homework_w3_1\\Homework_w3_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\timsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\timsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\timsh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
