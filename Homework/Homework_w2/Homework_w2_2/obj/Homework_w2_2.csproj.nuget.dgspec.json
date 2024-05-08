@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj",
         "projectName": "Homework_w2_2",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\Homework_w2_2.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe23_C\\Homework\\Homework_w2\\Homework_w2_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
