@@ -1,0 +1,17 @@
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\bin\Debug\net8.0-windows\Homework_w11_1.exe
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\bin\Debug\net8.0-windows\Homework_w11_1.deps.json
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\bin\Debug\net8.0-windows\Homework_w11_1.runtimeconfig.json
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\bin\Debug\net8.0-windows\Homework_w11_1.dll
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\bin\Debug\net8.0-windows\Homework_w11_1.pdb
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.Form1.resources
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.csproj.GenerateResource.cache
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.AssemblyInfoInputs.cache
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.AssemblyInfo.cs
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.csproj.CoreCompileInputs.cache
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.sourcelink.json
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.dll
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\refint\Homework_w11_1.dll
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.pdb
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\Homework_w11_1.genruntimeconfig.cache
+C:\Users\timsh\source\repos\TARpe23_C\Homework\Homework_w11\Homework_w11_1\obj\Debug\net8.0-windows\ref\Homework_w11_1.dll
